@@ -24,4 +24,4 @@ public class ContainerWater {
         int[] height2 = {1, 1};
         System.out.println("Max Area: " + solution.maxArea(height2));
     }
-}
+ }
